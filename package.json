@@ -1,11 +1,11 @@
 {
-  "name": "jsonresume-theme-stackoverflow",
+  "name": "jsonresume-theme-nickoverflow",
   "version": "2.0.2",
-  "description": "Stack Overflow theme for JSON Resume",
-  "author": "Francesco Esposito",
+  "description": "Stack Overflow theme for JSON Resume with embdedded company links",
+  "author": "Francesco Esposito (fork and edit by Nick Long)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/francescoes/jsonresume-theme-stackoverflow"
+    "url": "https://github.com/nicklongdesign/jsonresume-theme-nickoverflow"
   },
   "license": "MIT",
   "main": "index.js",
